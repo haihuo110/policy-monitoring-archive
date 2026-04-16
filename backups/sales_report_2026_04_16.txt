@@ -1,0 +1,13 @@
+April 2026 Sales Target Report (as of April 16, 2026)
+Amount-based Track:
+- Total Target: 800,000
+- Total Actual: 0
+- Attainment Rate: 0%
+- Gap: 800,000
+
+Count-based Track:
+- Total Target: 60
+- Total Actual: 0
+- Attainment Rate: 0%
+- Gap: 60
+Notes: Count-based actual data was not found in Notion and is assumed to be 0.
